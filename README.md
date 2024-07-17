@@ -78,36 +78,30 @@ Trying pinging VM2, since VM1 and VM2 have the same private IP address, some Lin
 <p>
 <img src="https://i.imgur.com/9pTt9Fm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Filtering traffic by ICMP.
-<p>
-<img src="https://i.imgur.com/ocGHvF6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Filtering traffic by ICMP viewing results in Wireshark.
 <br />
+
 <p>
-Filtering traffic ICMP with firewall denial rule implemented.
+<img src="https://i.imgur.com/CWj1q6C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Filtering traffic by DNS viewing results in Wireshark.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/epWorgI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Filtering traffic by SSH viewing results in Wireshark.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/epWorgI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Connecting to VM2 from VM1 through secure shell (SSH).
 </p>
 <br />
