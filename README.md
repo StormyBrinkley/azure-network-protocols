@@ -76,7 +76,7 @@ Trying pinging VM2, since VM1 and VM2 have the same private IP address, some Lin
 <br />
 
 <p>
-<img src="https://i.imgur.com/ocGHvF6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9pTt9Fm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Filtering traffic by ICMP.
 <p>
@@ -84,7 +84,7 @@ Filtering traffic by ICMP.
 </p>
 <br />
 <p>
-Filtering traffic with ICMP denial rule implemented.
+Filtering traffic ICMP with firewall denial rule implemented.
 </p>
 <br />
 
