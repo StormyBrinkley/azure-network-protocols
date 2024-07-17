@@ -67,11 +67,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/iU6K7Ou.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
 <p>
 <img src="https://i.imgur.com/9pTt9Fm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Trying pinging VM2, since VM1 and VM2 have the same private IP address, some Linux commands didn't work properly. I did a workaround and used the public IP address to complete the lap.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/0SvpyJt.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating a firewall rule that denys ICMP traffic.
 </p>
 <br />
 
