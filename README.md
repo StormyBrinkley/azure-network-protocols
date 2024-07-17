@@ -9,7 +9,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Video Demonstration</h2>
 
 - ### [Creating Two Virtual Machines in Azure: Windows and Linux](https://youtu.be/hWDgydFGzGc?si=nAzxxpBrWnA6eQKX)
-In this comprehensive video tutorial (no audio | instrumental), I will guide you through the process of creating two virtual machines in Microsoft Azure. We will set up one virtual machine running a Windows operating system and another one running a Linux operating system, covering all the necessary steps and configurations to get both up and running smoothly.
+In this comprehensive video tutorial (featuring instrumental music and no audio commentary), I will guide you through the entire process of creating two virtual machines in Microsoft Azure. We will set up one virtual machine with a Windows operating system and another with a Linux operating system. This tutorial will cover all the necessary steps and configurations to ensure both virtual machines are up and running smoothly.
 <br/>
 <h2>Environments and Technologies Used</h2>
 
