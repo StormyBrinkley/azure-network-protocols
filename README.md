@@ -25,8 +25,9 @@ In this comprehensive video tutorial (featuring instrumental music and no audio 
 - Ubuntu Server 20.04
 <h2>High-Level Steps</h2>
 
-- Creating Virtual Machines
+- Creating Our Resources
 - Conducting Network Activities: Filtering Traffic with Various Protocols in Wireshark Using PowerShell
+- Observe ICMP, SSH, DHCP, DNS, RDP Traffic
 
 <h2>Actions and Observations</h2>
 
