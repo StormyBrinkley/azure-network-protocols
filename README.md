@@ -35,7 +35,7 @@ In this comprehensive video tutorial (featuring instrumental music and no audio 
 <img src="https://i.imgur.com/eeFtFsy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigating to through VM1's essentials to obtain the public IP Address to add to Microsoft Remote Desktop. 
+First, you'll need to obtain the public IP address for VM1. 
 </p>
 <br />
 
@@ -51,16 +51,14 @@ Microsoft Remote Desktop.
 <img src="https://i.imgur.com/NnNED4P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Adding VM1's public IP Address to Microsoft Remote Desktop.
+Go to PC name and add VM1's IP address then log-in with the credentials you created for VM1. 
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/Xz9lhwr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Logging into Microsoft Remote Desktop with the credentials add in Azure during VM setup.
-</p>
+
 <br />
 
 <p>
